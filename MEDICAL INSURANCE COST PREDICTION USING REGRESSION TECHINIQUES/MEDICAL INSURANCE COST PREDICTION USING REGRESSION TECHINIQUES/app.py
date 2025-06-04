@@ -1,5 +1,5 @@
 import streamlit as st
-st.set_page_config(page_title="Insurance ML Dashboard", page_icon="📊", layout="centered")
+st.set_page_config(page_title="Medical Insurance Cost Prediction", page_icon="📊", layout="centered")
 st.title("Medical Insurance Cost Prediction")
 
 st.markdown("""
