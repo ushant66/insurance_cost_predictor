@@ -6,7 +6,7 @@ I enjoy working with data, building ML models, and creating dashboards using **P
 ---
 
 ## 📚 Projects & Guides
-In my portfolio, you can find my [projects](https://github.com/uahantsomkuwar?tab=repositories) and guides on data analytics and machine learning.
+In my portfolio, you can find my [projects](https://github.com/ushant66?tab=repositories) and guides on data analytics and machine learning.
 
 ---
 
