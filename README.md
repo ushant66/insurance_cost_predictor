@@ -27,8 +27,7 @@ In my portfolio, you can find my [projects](https://github.com/ushant66?tab=repo
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Email](mailto:youremail@example.com)  
+- [LinkedIn](www.linkedin.com/in/ushant-somkuwar-865547285)  
 
 ---
 
