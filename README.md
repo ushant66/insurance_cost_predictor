@@ -11,7 +11,7 @@ This project predicts **medical insurance charges** of individuals based on feat
 - Jupyter Notebook
 
 ## 📊 Dataset
-- Dataset from Kaggle: [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+- Dataset from Kaggle: 
 
 ## 🔑 Key Features
 - Data cleaning and preprocessing
